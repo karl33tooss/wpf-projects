@@ -1,0 +1,56 @@
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\bin\Debug\CryptoApp.exe.config
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\bin\Debug\CryptoApp.exe
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\bin\Debug\CryptoApp.pdb
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csproj.AssemblyReference.cache
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\obj\Debug\MainWindow.g.cs
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\obj\Debug\App.g.cs
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\obj\Debug\CryptoApp_MarkupCompile.cache
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\obj\Debug\CryptoApp_MarkupCompile.lref
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\obj\Debug\MainWindow.baml
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\obj\Debug\CryptoApp.g.resources
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\obj\Debug\CryptoApp.Properties.Resources.resources
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csproj.GenerateResource.cache
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csproj.CoreCompileInputs.cache
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\obj\Debug\CryptoApp.exe
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\obj\Debug\CryptoApp.pdb
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csproj.CopyComplete
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Yarek\source\repos\CryptoApp\CryptoApp\obj\Debug\App.baml
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\bin\Debug\CryptoApp.exe.config
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\bin\Debug\CryptoApp.exe
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\bin\Debug\CryptoApp.pdb
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\obj\Debug\CryptoApp.csproj.AssemblyReference.cache
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\obj\Debug\CryptoApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\obj\Debug\MainWindow.g.cs
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\obj\Debug\App.g.cs
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\obj\Debug\CryptoApp_MarkupCompile.cache
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\obj\Debug\CryptoApp_MarkupCompile.lref
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\obj\Debug\App.baml
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\obj\Debug\MainWindow.baml
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\obj\Debug\CryptoApp.g.resources
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\obj\Debug\CryptoApp.Properties.Resources.resources
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\obj\Debug\CryptoApp.csproj.GenerateResource.cache
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\obj\Debug\CryptoApp.csproj.CoreCompileInputs.cache
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\obj\Debug\CryptoApp.csproj.CopyComplete
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\obj\Debug\CryptoApp.exe
+C:\Users\Yarek\source\repos\CryptoApp - Copy\CryptoApp\obj\Debug\CryptoApp.pdb
