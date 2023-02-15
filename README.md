@@ -5,5 +5,7 @@ Three different tabs that display:
 - a page where you can view detailed information about cryptocurrency (price, volume, price change in 24 hours, markets where you can buy cryptocurrency, etc.). The search for coins is implemented here.
 - a page where you can convert one coin into another
 Light/dark themes are present.
-The application can be better optimized and implemented, but I haven’t had enough time yet (I have ideas, that’s why I said that I could improve the application)
+For using app with API key, generate your own key here https://coincap.io/api-key
+If you want to use app without API key, just uncomment row in WebRequestData method.
+The application can be better optimized and implemented.
 Enjoy!
