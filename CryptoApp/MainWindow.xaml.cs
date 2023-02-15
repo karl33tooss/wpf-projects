@@ -1,4 +1,4 @@
-﻿using MaterialDesignThemes.Wpf;
+using MaterialDesignThemes.Wpf;
 using Newtonsoft.Json;
 using System;
 using System.IO;
@@ -211,8 +211,7 @@ namespace CryptoApp
                 expander.FontWeight = FontWeights.Bold;
                 expander.FontSize = 14;
                 expander.Tag = $"{crypto.id}";
-                expander.GotFocus += Expander_GotFocus;
-                expander.LostFocus += Expander_LostFocus;
+                expander.Expanded += Expander_Expanded;
                 StackPanel header = new StackPanel();
                 header.Orientation = Orientation.Horizontal;
 
@@ -263,7 +262,7 @@ namespace CryptoApp
 
         //Method for filling details info about unique crypto if expaner got focus
         //this made for optimize program
-        private void Expander_GotFocus(object sender, RoutedEventArgs e)
+        private void Expander_Expanded(object sender, RoutedEventArgs e)
         {
             Expander expander = (Expander)sender;
 
@@ -1097,5 +1096,6 @@ namespace CryptoApp
             }
             return Math.Round(priceUsd,roundNums);
         }
+
     }
 }
